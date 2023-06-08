@@ -132,7 +132,6 @@ where dea.continent is not null
 --order by 2,3
 
 Select* from
-
 PercentPopulationVaccinated
 
 
